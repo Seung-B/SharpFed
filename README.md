@@ -1,2 +1,2 @@
-# SharpFed
+# Sharp-Fed
 Sharp-MAML + FedAvg
